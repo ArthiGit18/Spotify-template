@@ -1,0 +1,111 @@
+{
+  "madeForYou": [
+    {
+      "img": "/assets/thumbnailSongs/Frame (3).png",
+      "title": "Data 1",
+      "description": "Set data True 1"
+    },
+    {
+      "img": "/assets/thumbnailSongs/Frame (4).png",
+      "title": "Data 2",
+      "description": "Set data True 2"
+    },
+    {
+      "img": "/assets/thumbnailSongs/Frame (5).png",
+      "title": "Data 3",
+      "description": "Set data True 3"
+    },
+    {
+      "img": "/assets/thumbnailSongs/Frame (6).png",
+      "title": "Data 3",
+      "description": "Set data True 3"
+    },
+    {
+      "img": "/assets/thumbnailSongs/Frame (7).png",
+      "title": "Data 3",
+      "description": "Set data True 3"
+    },
+    {
+      "img": "/assets/thumbnailSongs/Frame (8).png",
+      "title": "Data 3",
+      "description": "Set data True 3"
+    }
+  ],
+  "bestOfEnd": [
+    {
+      "img": "/assets/thumbnailSongs/Frame (5).png",
+      "title": "Data",
+      "description": "Set data True"
+    },
+    {
+      "img": "/assets/thumbnailSongs/Frame (9).png",
+      "title": "Data",
+      "description": "Set data True"
+    },
+    {
+      "img": "/assets/thumbnailSongs/Frame (10).png",
+      "title": "Data",
+      "description": "Set data True"
+    },
+    {
+      "img": "/assets/thumbnailSongs/Frame (11).png",
+      "title": "Data",
+      "description": "Set data True"
+    },
+    {
+      "img": "/assets/thumbnailSongs/Frame (12).png",
+      "title": "Data",
+      "description": "Set data True"
+    }
+  ],
+  "bestOfFav": [
+    {
+      "img": "/assets/thumbnailSongs/Frame (5).png",
+      "title": "Data",
+      "description": "Set data True"
+    },
+    {
+      "img": "/assets/thumbnailSongs/Frame (9).png",
+      "title": "Data",
+      "description": "Set data True"
+    },
+    {
+      "img": "/assets/thumbnailSongs/Frame (10).png",
+      "title": "Data",
+      "description": "Set data True"
+    },
+    {
+      "img": "/assets/thumbnailSongs/Frame (11).png",
+      "title": "Data",
+      "description": "Set data True"
+    },
+    {
+      "img": "/assets/thumbnailSongs/Frame (12).png",
+      "title": "Data",
+      "description": "Set data True"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Heeriye Heeriye aa",
+      "imgSrc": "/assets/songsAvator/Auto Layout Horizontal (4).png"
+    },
+    {
+      "id": 2,
+      "title": "Heeriye Heeriye aa",
+      "imgSrc": "/assets/songsAvator/Auto Layout Horizontal (4).png"
+    },
+    {
+      "id": 3,
+      "title": "Heeriye Heeriye aa",
+      "imgSrc": "/assets/songsAvator/Auto Layout Horizontal (4).png"
+    },
+    {
+      "id": 4,
+      "title": "Heeriye Heeriye aa",
+      "imgSrc": "/assets/songsAvator/Auto Layout Horizontal (4).png"
+    }
+    
+  ]
+}
