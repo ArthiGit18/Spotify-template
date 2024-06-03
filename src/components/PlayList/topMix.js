@@ -9,7 +9,7 @@ const PlayList = () => {
   return (
     <div className='home_Main_bg_scroll'>
       <NavListSongs />
-      <div style={{ margin: "0 30px" }}>
+      <div className='topMix'>
 
         <div className="songs_header">
           <h2>Made For You</h2>

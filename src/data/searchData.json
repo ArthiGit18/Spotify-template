@@ -1,0 +1,374 @@
+{
+    "searchItems": [
+        {
+            "title": "Music",
+            "img": "/assets/searchListImg/1.jpg",
+            "bgColor": "#1ed760"
+        },
+        {
+            "title": "Podcasts",
+            "img": "/assets/searchListImg/2.jpeg",
+            "bgColor": "#ff5722"
+        },
+        {
+            "title": "Live Events",
+            "img": "/assets/searchListImg/3.jpeg",
+            "bgColor": "#ffeb3b"
+        },
+        {
+            "title": "New Releases",
+            "img": "/assets/searchListImg/4.jpeg",
+            "bgColor": "#3f51b5"
+        },
+        {
+            "title": "Made for You",
+            "img": "/assets/searchListImg/5.jpeg",
+            "bgColor": "#9c27b0"
+        },
+        {
+            "title": "Ghazals",
+            "img": "/assets/searchListImg/6.jpeg",
+            "bgColor": "#e91e63"
+        },
+        {
+            "title": "Hindi",
+            "img": "/assets/searchListImg/7.jpeg",
+            "bgColor": "#00bcd4"
+        },
+        {
+            "title": "Punjabi",
+            "img": "/assets/searchListImg/8.jpeg",
+            "bgColor": "#f44336"
+        },
+        {
+            "title": "Tamil",
+            "img": "/assets/searchListImg/9.jpeg",
+            "bgColor": "#4caf50"
+        },
+        {
+            "title": "Podcast Charts",
+            "img": "/assets/searchListImg/10.jpeg",
+            "bgColor": "#7bcbca"
+        },
+        {
+            "title": "Podcast New Releases",
+            "img": "/assets/searchListImg/11.jpeg",
+            "bgColor": "#0036d6"
+        },
+        {
+            "title": "Video Podcasts",
+            "img": "/assets/searchListImg/12.jpeg",
+            "bgColor": "#03a9f4"
+        },
+        {
+            "title": "Business & Technology",
+            "img": "/assets/searchListImg/13.jpeg",
+            "bgColor": "#2196f3"
+        },
+        {
+            "title": "Charts",
+            "img": "/assets/searchListImg/14.jpeg",
+            "bgColor": "#d3a26d"
+        },
+        {
+            "title": "Play Your Part",
+            "img": "/assets/searchListImg/15.jpeg",
+            "bgColor": "#9c27b0"
+        },
+        {
+            "title": "Summer",
+            "img": "/assets/searchListImg/16.jpeg",
+            "bgColor": "#795548"
+        },
+        {
+            "title": "Telugu",
+            "img": "/assets/searchListImg/17.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Pop",
+            "img": "/assets/searchListImg/18.jpeg",
+            "bgColor": "#ffc107"
+        },
+        {
+            "title": "Discover",
+            "img": "/assets/searchListImg/19.jpeg",
+            "bgColor": "#ff5722"
+        },
+        {
+            "title": "Indie",
+            "img": "/assets/searchListImg/20.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Love",
+            "img": "/assets/searchListImg/21.jpeg",
+            "bgColor": "#f44336"
+        },
+        {
+            "title": "Bhojpuri",
+            "img": "/assets/searchListImg/22.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Trending",
+            "img": "/assets/searchListImg/23.jpeg",
+            "bgColor": "#7bcbca"
+        },
+        {
+            "title": "Mood",
+            "img": "/assets/searchListImg/24.jpeg",
+            "bgColor": "#0036d6"
+        },
+        {
+            "title": "Party",
+            "img": "/assets/searchListImg/25.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Devotional",
+            "img": "/assets/searchListImg/26.jpeg",
+            "bgColor": "#d3a26d"
+        },
+        {
+            "title": "Decades",
+            "img": "/assets/searchListImg/27.jpeg",
+            "bgColor": "#9c27b0"
+        },
+        {
+            "title": "Hip-Hop",
+            "img": "/assets/searchListImg/28.jpeg",
+            "bgColor": "#1c456a"
+        },
+        {
+            "title": "Dance/Electron ic",
+            "img": "/assets/searchListImg/29.jpeg",
+            "bgColor": "#ff5722"
+        },
+        {
+            "title": "Student",
+            "img": "/assets/searchListImg/30.jpeg",
+            "bgColor": "#e91e63"
+        },
+        {
+            "title": "Chill",
+            "img": "/assets/searchListImg/31.jpeg",
+            "bgColor": "#ffeb3b"
+        },
+        {
+            "title": "Gaming",
+            "img": "/assets/searchListImg/32.jpeg",
+            "bgColor": "#f44336"
+        },
+        {
+            "title": "K-pop",
+            "img": "/assets/searchListImg/33.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Workout",
+            "img": "/assets/searchListImg/34.jpeg",
+            "bgColor": "#d3a26d"
+        },
+        {
+            "title": "RADAR",
+            "img": "/assets/searchListImg/35.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "EQUAL",
+            "img": "/assets/searchListImg/1.jpg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Fresh Finds",
+            "img": "/assets/searchListImg/2.jpeg",
+            "bgColor": "#96a17f"
+        },
+        {
+            "title": "Rock",
+            "img": "/assets/searchListImg/3.jpeg",
+            "bgColor": "#ffeb3b"
+        },
+        {
+            "title": "Sleep",
+            "img": "/assets/searchListImg/4.jpeg",
+            "bgColor": "#1c456a"
+        },
+        {
+            "title": "Chill",
+            "img": "/assets/searchListImg/5.jpeg",
+            "bgColor": "#e91e63"
+        },
+        {
+            "title": "Indian Classical",
+            "img": "/assets/searchListImg/6.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Instrumental",
+            "img": "/assets/searchListImg/7.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Spotify Singles",
+            "img": "/assets/searchListImg/8.jpeg",
+            "bgColor": "#ff5722"
+        },
+        {
+            "title": "At Home",
+            "img": "/assets/searchListImg/9.jpeg",
+            "bgColor": "#1c456a"
+        },
+        {
+            "title": "Country",
+            "img": "/assets/searchListImg/10.jpeg",
+            "bgColor": "#7bcbca"
+        },
+        {
+            "title": "R & B",
+            "img": "/assets/searchListImg/11.jpeg",
+            "bgColor": "#0036d6"
+        },
+        {
+            "title": "Metal",
+            "img": "/assets/searchListImg/12.jpeg",
+            "bgColor": "#00bcd4"
+        },
+        {
+            "title": "Jazz",
+            "img": "/assets/searchListImg/13.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Classical",
+            "img": "/assets/searchListImg/14.jpeg",
+            "bgColor": "#ff5722"
+        },
+        {
+            "title": "Folk & Acoustic",
+            "img": "/assets/searchListImg/15.jpeg",
+            "bgColor": "#9c27b0"
+        },
+        {
+            "title": "Focus",
+            "img": "/assets/searchListImg/16.jpeg",
+            "bgColor": "#f44336"
+        },
+        {
+            "title": "Disney",
+            "img": "/assets/searchListImg/17.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Soul",
+            "img": "/assets/searchListImg/18.jpeg",
+            "bgColor": "#d3a26d"
+        },
+        {
+            "title": "Children & Family",
+            "img": "/assets/searchListImg/19.jpeg",
+            "bgColor": "#ff5722"
+        },
+        {
+            "title": "Anime",
+            "img": "/assets/searchListImg/20.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "TV & Flims",
+            "img": "/assets/searchListImg/21.jpeg",
+            "bgColor": "#f44336"
+        },
+        {
+            "title": "Punk",
+            "img": "/assets/searchListImg/22.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Ambient",
+            "img": "/assets/searchListImg/23.jpeg",
+            "bgColor": "#7bcbca"
+        },
+        {
+            "title": "Blues",
+            "img": "/assets/searchListImg/24.jpeg",
+            "bgColor": "#0036d6"
+        },
+        {
+            "title": "Cooking & Dining",
+            "img": "/assets/searchListImg/25.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Alternative",
+            "img": "/assets/searchListImg/26.jpeg",
+            "bgColor": "#d3a26d"
+        },
+        {
+            "title": "Wellness",
+            "img": "/assets/searchListImg/27.jpeg",
+            "bgColor": "#9c27b0"
+        },
+        {
+            "title": "Travel",
+            "img": "/assets/searchListImg/28.jpeg",
+            "bgColor": "#1c456a"
+        },
+        {
+            "title": "Caribbean",
+            "img": "/assets/searchListImg/29.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Afro",
+            "img": "/assets/searchListImg/30.jpeg",
+            "bgColor": "#e91e63"
+        },
+        {
+            "title": "Songwriters",
+            "img": "/assets/searchListImg/31.jpeg",
+            "bgColor": "#ffeb3b"
+        },
+        {
+            "title": "Nature & Noise",
+            "img": "/assets/searchListImg/32.jpeg",
+            "bgColor": "#f44336"
+        },
+        {
+            "title": "Funk & Disco",
+            "img": "/assets/searchListImg/33.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Netflix",
+            "img": "/assets/searchListImg/34.jpeg",
+            "bgColor": "#d3a26d"
+        },
+        {
+            "title": "Asian Pacific Islander Heritage Month",
+            "img": "/assets/searchListImg/35.jpeg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "GLOW",
+            "img": "/assets/searchListImg/1.jpg",
+            "bgColor": "#8bc34a"
+        },
+        {
+            "title": "Music + Talk",
+            "img": "/assets/searchListImg/2.jpeg",
+            "bgColor": "#96a17f"
+        },
+        {
+            "title": "Latin",
+            "img": "/assets/searchListImg/3.jpeg",
+            "bgColor": "#ffeb3b"
+        },
+        {
+            "title": "Tastemakers",
+            "img": "/assets/searchListImg/4.jpeg",
+            "bgColor": "#1c456a"
+        }
+    ]
+}

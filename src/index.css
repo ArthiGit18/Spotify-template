@@ -53,6 +53,7 @@
     height: 40px;
     box-sizing: content-box;
     border-radius: 20px;
+    cursor: pointer;
 }
 
 .commonBg_text {
@@ -60,10 +61,11 @@
     border-radius: 30px;
     align-items: center;
     display: flex;
+    cursor: pointer;
 }
 
 .commonBg_text_black {
-    background-color: #121212;
+    background-color: #2e2e2e;
 }
 
 .commonBg_text_green {
@@ -135,7 +137,11 @@
 .optionLeft_one {
     display: grid;
     grid-template-columns: 1fr 6fr;
+    cursor: pointer;
+}
 
+.optionLeft_one:hover{
+    text-decoration: underline;
 }
 
 /* left2 */
@@ -203,7 +209,7 @@
 }
 
 .navbar_home {
-    margin: 0 30px;
+    margin: 0 20px;
 }
 
 .songs_Img_Queue {
@@ -246,21 +252,19 @@
 
 .songsList {
     padding-bottom: 10px;
-    /* Space at the bottom for scrollbar */
 }
 
-.scrollContainer {
-    padding-right: 10px;
-    /* Space for scrollbar */
+/* Custom scrollbar styles for Firefox */
+.songsListContainer {
+    scrollbar-width: thin;
+    scrollbar-color: #888 transparent;
 }
 
 .playlist {
     display: flex;
     align-items: center;
-    margin-bottom: 10px;
-    /* Space between items */
+    margin-bottom: 15px;
     height: 50px;
-    /* Fixed height for each item */
 }
 
 .playlist img {
@@ -271,13 +275,13 @@
 
 .playlist h4 {
     margin: 0;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .playlist p {
     margin: 0;
     color: #888;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 /* HorizontalLIst */
@@ -330,11 +334,18 @@
 
 /*  */
 
-
 .home_Main_bg_scroll {
     height: 530px;
     overflow-y: scroll;
+    margin: 0px 20px;
 }
+
+/* Custom scrollbar styles for Firefox */
+.home_Main_bg_scroll {
+    scrollbar-width: thin;
+    scrollbar-color: #888 transparent;
+}
+
 
 .songs_header h2 {
     font-size: 30px;
@@ -399,7 +410,7 @@
     justify-content: space-between;
     column-gap: 10px;
     word-break: keep-all;
-    margin-top: 30px;
+    margin: 30px 0;
 }
 
 .copyrightMenu p,
@@ -483,4 +494,78 @@
     align-items: center;
     justify-content: flex-end;
     column-gap: 10px;
+}
+
+
+/* Search header */
+
+.textField_search{
+    color: white;
+    border: 1px solid #1f1f1f;
+    background-color: #2e2e2e;
+    padding: 15px 0 15px 40px;
+    border-radius: 25px;
+    width: 350px;
+    margin-bottom: 10px;
+}
+
+.textField_search:hover{
+    border: 1px solid #888;
+}
+
+.div_inputField{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.icon_inputField{
+    position: absolute;
+    padding: 10px;
+    width: 40px;
+    height: 40px;
+    box-sizing: content-box;
+}
+
+/* search boxes */
+
+.search_section_box{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+.search_section_box h4{
+    font-size: 25px;
+}
+.search_boxes{
+    height: 150px;
+    width: auto;
+    padding: 20px;
+    border-radius: 10px;
+    /* background-color: #1ed760; */
+    position: relative;
+    overflow: hidden;
+}
+
+
+.search_Main_bg_scroll {
+    height: 590px;
+    overflow-y: scroll;
+    margin: 0px 20px;
+}
+
+/* Custom scrollbar styles for Firefox */
+.search_Main_bg_scroll {
+    scrollbar-width: thin;
+    scrollbar-color: #888 transparent;
+}
+
+.SearchListImg{
+    position: absolute;
+    height: 120px;
+    left: 180px;
+    bottom: -10px;
+    rotate: 30deg;
+    
 }
