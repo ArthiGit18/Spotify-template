@@ -7,6 +7,8 @@ import Footer from '../../pages/footerSection';
 
 const PlayList = () => {
   return (
+
+    
     <div className='home_Main_bg_scroll'>
       <NavListSongs />
       <div className='topMix'>
